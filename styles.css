@@ -44,11 +44,11 @@ a{
     display:flex;
     background-color:#1F2937;
     color: #eee;
-    padding: 48px 200px 48px 200px;
+    padding: 96px 200px 96px 200px;
     justify-content: space-between;
     gap: 64px;
-    padding-bottom: 96px;
 }
+
 .hero-main-text{
     font-size:48px;
     font-weight:bolder;
