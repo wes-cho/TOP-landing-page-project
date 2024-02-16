@@ -60,6 +60,9 @@ a{
 .hero-left button{
     background-color:#3882f6;
     color:#f9faf8;
+    border: none;
+    padding: 8px 24px;
+    border-radius: 10px;
 }
 
 .hero-right{
