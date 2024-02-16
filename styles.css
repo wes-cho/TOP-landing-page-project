@@ -24,7 +24,7 @@ a{
     height:50px;
     justify-content: space-between;
     align-items: center;
-    padding: 0px 100px;
+    padding: 0px 200px;
 }
 
 .logo{
@@ -43,7 +43,7 @@ a{
     display:flex;
     background-color:#1F2937;
     color: #eee;
-    padding: 48px 100px 48px 100px;
+    padding: 48px 200px 48px 200px;
     justify-content: space-between;
 }
 .hero-main-text{
@@ -53,18 +53,26 @@ a{
     margin:0px;
 }
 
+.hero-left, .hero-right{
+    flex: 1;
+}
+
+.hero-right{
+    border: 1px solid #eee;
+}
+
 /* SECTION TWO */
 .section-two{
-    padding: 48px 100px 48px 100px;
+    padding: 48px 200px 48px 200px;
 }
 
 /* SECTION THREE */
 .section-three{
     background-color: #e5e7eb;
-    padding: 48px 100px 48px 100px;
+    padding: 48px 200px 48px 200px;
 }
 
 /* SECTION FOUR */
 .section-four{
-    padding: 48px 100px 48px 100px;
+    padding: 48px 200px 48px 200px;
 }
