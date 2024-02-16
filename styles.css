@@ -76,6 +76,14 @@ a{
     padding: 48px 200px 48px 200px;
 }
 
+.info-top{
+    font-size:36px;
+    font-weight:bolder;
+    color: #1F2937;
+    text-align: center;
+    padding-bottom: 24px;
+}
+
 .info-bottom{
     display:flex;
 }
