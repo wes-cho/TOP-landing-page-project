@@ -24,7 +24,7 @@ a{
     height:fit-content;
     justify-content: space-between;
     align-items: center;
-    padding: 0px 200px;
+    padding: 16px 200px 0px 200px;
 }
 
 .logo{
@@ -45,6 +45,7 @@ a{
     color: #eee;
     padding: 48px 200px 48px 200px;
     justify-content: space-between;
+    gap: 64px;
 }
 .hero-main-text{
     font-size:48px;
