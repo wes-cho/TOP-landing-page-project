@@ -1,12 +1,17 @@
 body{
     display:flex;
     flex-direction: column;
+    font-family: Helvetica, sans-serif;
 }
 
 ul{
     list-style-type: none;
     margin:0;
     padding:0;
+}
+
+.section-one{
+    color: #eee;
 }
 
 .section-one{
