@@ -22,8 +22,9 @@ a{
     color: #eee;
     display:flex;
     height:50px;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+    padding: 0px 100px;
 }
 
 .logo{
@@ -42,7 +43,8 @@ a{
     display:flex;
     background-color:#1F2937;
     color: #eee;
-    padding-top: 48px;
+    padding: 48px 60px 48px 60px;
+    justify-content: space-around;
 }
 .hero-main-text{
     font-size:48px;
