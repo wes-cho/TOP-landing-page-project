@@ -43,8 +43,8 @@ a{
     display:flex;
     background-color:#1F2937;
     color: #eee;
-    padding: 48px 60px 48px 60px;
-    justify-content: space-around;
+    padding: 48px 100px 48px 100px;
+    justify-content: space-between;
 }
 .hero-main-text{
     font-size:48px;
