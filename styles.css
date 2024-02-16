@@ -53,6 +53,15 @@ a{
     margin:0px;
 }
 
+.section-two{
+    padding: 48px 100px 48px 100px;
+}
+
 .section-three{
     background-color: #e5e7eb;
+    padding: 48px 100px 48px 100px;
+}
+
+.section-four{
+    padding: 48px 100px 48px 100px;
 }
