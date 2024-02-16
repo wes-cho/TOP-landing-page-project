@@ -20,7 +20,9 @@ a{
     background-color:#1F2937;
     color: #eee;
     display:flex;
-    justify-content: space-between;
+    height:50px;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .logo{
