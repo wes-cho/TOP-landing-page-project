@@ -1,6 +1,6 @@
 body{
     display:flex;
-    flex-direction: column;
+    flex-direction:column;
     font-family: Helvetica, sans-serif
 }
 
@@ -10,12 +10,15 @@ ul{
     padding:0;
 }
 
-.section-one{
+.header{
+    background-color:#1F2937;
     color: #eee;
+    display:flex;
 }
 
 .section-one{
     background-color:#1F2937;
+    color: #eee;
 }
 
 .section-three{
