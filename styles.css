@@ -16,6 +16,7 @@ a{
     color: #eee;
 }
 
+/* HEADER */
 .header{
     background-color:#1F2937;
     color: #eee;
@@ -36,10 +37,18 @@ a{
     gap: 16px;
 }
 
+/* HERO */
 .section-one{
     display:flex;
     background-color:#1F2937;
     color: #eee;
+    padding-top: 48px;
+}
+.hero-main-text{
+    font-size:48px;
+    font-weight:bolder;
+    color:#f9faf8;
+    margin:0px;
 }
 
 .section-three{
