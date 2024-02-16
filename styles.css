@@ -3,6 +3,7 @@ body{
     flex-direction:column;
     font-family: Helvetica, sans-serif;
     margin:0;
+    width: 100vw;
 }
 
 ul{
@@ -46,6 +47,7 @@ a{
     padding: 48px 200px 48px 200px;
     justify-content: space-between;
     gap: 64px;
+    padding-bottom: 96px;
 }
 .hero-main-text{
     font-size:48px;
@@ -87,7 +89,6 @@ a{
 .info-bottom{
     display:flex;
     gap: 24px;
-    min-width: none;
     margin-bottom: 80px;
 }
 
@@ -108,7 +109,7 @@ a{
     color: #1f2937;
 }
 
-/* SECTION THREE */
+/* QUOTE SECTION */
 .section-three{
     background-color: #e5e7eb;
     padding: 48px 200px 48px 200px;
