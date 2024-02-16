@@ -16,6 +16,11 @@ ul{
     display:flex;
 }
 
+.logo{
+    text-decoration: none;
+    color:#eee;
+}
+
 .section-one{
     background-color:#1F2937;
     color: #eee;
