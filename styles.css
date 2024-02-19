@@ -131,3 +131,34 @@ a{
 .section-four{
     padding: 48px 200px 48px 200px;
 }
+.cta{
+    background-color:#3882f6;
+    color: #f9faf8;
+    border-radius: 10px;
+    padding: 10px 70px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 96px;
+}
+
+.cta-header{
+    font-weight:bold;
+    padding-bottom: 0;
+    margin-bottom:0;
+}
+
+.cta-body{
+    padding-top:0;
+    margin-top:5px;
+    font-weight: lighter;
+}
+
+.cta-button{
+    background-color:#3882f6;
+    color:#f9faf8;
+    border: 1px solid #f9faf8;
+    padding: 8px 24px;
+    border-radius: 10px;
+    font-weight: bold;
+}
