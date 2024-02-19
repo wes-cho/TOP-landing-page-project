@@ -68,9 +68,17 @@ a{
 }
 
 .hero-right{
+    background-color:lightgray;
     border: 1px solid #eee;
+    opacity: 0.6;
+    display:flex;
+    justify-content: center;
+    align-items:center;
 }
 
+.hero-right p{
+    color: #1F2937;
+}
 
 /* INFO SECTION */
 .section-two{
